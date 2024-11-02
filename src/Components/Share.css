@@ -49,7 +49,7 @@
     flex-direction: column;
   }
   .t-card{
-    width: 95%;
+    width: 100%;
     justify-content: center;
     margin: 20px auto;
   }
