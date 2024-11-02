@@ -1,0 +1,19 @@
+.service-container{
+    margin: 4rem 6rem;
+    text-align: start ;
+  }
+  .service-container h1{
+  padding-bottom: 1rem;
+  }
+  
+  .service-container p{
+    padding-bottom: 2rem;
+    color: #777;
+  }
+  
+  @media screen and (max-width:850px) {
+    .service-container{
+      margin: 4rem 2rem;
+    }
+    
+  }
